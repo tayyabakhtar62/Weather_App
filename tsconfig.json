@@ -22,5 +22,8 @@
   },
   "include": [
     "src"
-  ]
+, "index.d.ts"  ],
+  "typeRoots": [
+    "./index.d.ts"
+  ],
 }
